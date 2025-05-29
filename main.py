@@ -4,7 +4,7 @@ from excel_utils import read_excel_contents
 
 if __name__ == "__main__":
     # Example usage and test
-    test_file = "Book1.xlsx"  # Specify the Excel file to read
+    test_file = "cell_tower_records.xlsx"  # Specify the Excel file to read
     try:
         # Read the Excel file into a DataFrame
         df = read_excel_contents(test_file)

@@ -1,0 +1,14 @@
+I need to fake up some data for cell phone tower records can you help? please use a format acceptable to Excel
+
+at the top of your data put some annoying header meta data, like the cell phone company, and some other random text, before you dump the rows of repeated data
+
+I'm looking for, say. 100+ row of phone numbers, device codes, some other arbitary and probably opaque crap, you make it up but a few columns worth of bullshit codes that kind a follow a pattern
+
+--------------------------------------
+
+ok that was good, but I think we can do better, lets add a few more columns of random nonsensical numbers (you decide) and use crazy big ass fonts for the header metadata. Actually while you are at it can you add some stupid coporate logo into one of the cells at the top.
+
+--------------------------------------
+
+I don't like the column names foo_bar and weirdness, try to make this techie stuff like some engineer would salivate over
+
